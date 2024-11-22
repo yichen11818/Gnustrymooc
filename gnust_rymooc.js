@@ -209,5 +209,6 @@
 
     // 启动脚本
     const courseManager = new CourseManager();
+    console.log('脚本启动');
     courseManager.initialize();
 })();
