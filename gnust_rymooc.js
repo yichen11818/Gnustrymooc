@@ -2,13 +2,12 @@
 // @name         人邮学院自动学习脚本
 // @namespace    yumi1.top
 // @version      1.0
-// @description  人邮学院自动看视频和答题
+// @description  人邮学院自动看视频和答题 赣南科技学院 自动学习脚本  https://gnust.rymooc.com/
 // @author       yichen
 // @match        https://gnust.rymooc.com/*
 // @icon         https://www.yumi1.top/img/3.ico
 // @grant        none
-// @description 赣南科技学院 自动学习脚本  https://gnust.rymooc.com/
-// @antifeature: MIT License
+// @license      MIT
 // ==/UserScript==
 
 (function() {
